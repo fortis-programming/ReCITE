@@ -1,0 +1,53 @@
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\bin\Debug\ReCITE.exe.config
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\bin\Debug\ReCITE.exe.manifest
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\bin\Debug\ReCITE.application
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\bin\Debug\ReCITE.exe
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\bin\Debug\ReCITE.pdb
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\bin\Debug\Interop.WMPLib.dll
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\Interop.WMPLib.dll
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.csproj.ResolveComReference.cache
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.ClassList.resources
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.GameMenu.resources
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.Menu.resources
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.SectionForm.resources
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.SplashScreen.resources
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.Properties.Resources.resources
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.UC_Defuse.resources
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.UC_LottoName.resources
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.UC_OddEven.resources
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.csproj.GenerateResource.Cache
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.TrustInfo.xml
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.exe.manifest
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.application
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.exe
+C:\Users\ronmr\Documents\Visual Studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.pdb
+C:\Users\ronmr\documents\visual studio 2013\Projects\ReCITE\ReCITE\obj\Debug\ReCITE.csprojResolveAssemblyReference.cache
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.csproj.AssemblyReference.cache
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\Interop.WMPLib.dll
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.csproj.ResolveComReference.cache
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.exe
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.pdb
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\bin\Debug\ReCITE.exe.config
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\bin\Debug\ReCITE.exe.manifest
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\bin\Debug\ReCITE.application
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\bin\Debug\ReCITE.exe
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\bin\Debug\ReCITE.pdb
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\bin\Debug\Interop.WMPLib.dll
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.ClassList.resources
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.GameMenu.resources
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.Menu.resources
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.SectionForm.resources
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.SplashScreen.resources
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.Properties.Resources.resources
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.UC_Defuse.resources
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.UC_LottoName.resources
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.UC_OddEven.resources
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.csproj.GenerateResource.cache
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.csproj.CoreCompileInputs.cache
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.TrustInfo.xml
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.exe.manifest
+C:\Users\HALEYN\Downloads\ReCITE\ReCITE\ReCITE\obj\Debug\ReCITE.application
