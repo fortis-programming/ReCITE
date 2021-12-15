@@ -13,7 +13,7 @@ namespace ReCITE
 {
     public partial class ClassList : Form
     {
-        // TANGINA MO KRIS
+	// kajdkajdkajdkajd
         OleDbConnection cn = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + Application.StartupPath + "/db_recite.accdb");
         OleDbCommand sql = default(OleDbCommand);
         OleDbDataReader rd = default(OleDbDataReader);
