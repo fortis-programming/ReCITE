@@ -47,10 +47,7 @@ namespace ReCITE
                 player.controls.stop();
                 Application.Exit();
             }
-            else
-            {
-                //do nothing
-            }
+            // tinanggal ko yung else na walang laman
         }
     }
 }
