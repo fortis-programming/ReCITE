@@ -2,6 +2,7 @@
 {
     partial class ClassList
     {
+        /// CIE the fck alskdjfalskd;fjasdfkjas dfksaldf jssdf 
         /// <summary>
         /// Required designer variable.
         /// </summary>
